@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JSebek-DEV
 - 👀 I’m interested in game design,coding and game development in general
-- 🌱 I’m currently learning C#
+- 🌱 Worked in C# and currently developing in GDscript
 - 📫 How to reach me jan.sebek.honza@outlook.com
 
 <!---
